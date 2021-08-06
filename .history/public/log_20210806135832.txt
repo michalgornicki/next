@@ -10,4 +10,3 @@ Merge "release" with "master".
 Creating log.
 Delete local branch "release".
 Delete remote branch "release".
-Install Less.
