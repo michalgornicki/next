@@ -1,0 +1,5 @@
+Creating react project.
+Creating Github repository.
+Connecting project with Github repo.
+Adding new branch "release".
+Adding upstream branches.

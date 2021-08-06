@@ -1,0 +1,3 @@
+Creating react project.
+Creating Github repository.
+Connecting project with Github repo.

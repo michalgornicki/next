@@ -1,0 +1,9 @@
+Creating react project.
+Creating Github repository.
+Connecting project with Github repo.
+Adding new branch "release".
+Adding upstream branches.
+Adding files to git.
+Commit new div.
+Push commit to Github.
+Merge "release" with "master".
